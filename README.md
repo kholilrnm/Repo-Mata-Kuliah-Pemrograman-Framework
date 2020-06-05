@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kholilboy/Repo-Mata-Kuliah-Pemrograman-API)
 ![GitHub contributors](https://img.shields.io/github/contributors/kholilboy/Repo-Mata-Kuliah-Pemrograman-API)
 
-## Repository Mata Kuliah Pemrograman Framework 2020
+## Repository Mata Kuliah Pemrograman Framework
 #### Kholilul Rachman NM (17081010055)
 Ini adalah kumpulan source code mata kuliah pemrograman framework yang diampu oleh : 
 
