@@ -7,7 +7,7 @@
 #### Kholilul Rachman NM (17081010055)
 Ini adalah kumpulan source code mata kuliah pemrograman web yang diampu oleh : 
 
-<a href="#">Bapak Rizky Parlika, S.Kom, M.Kom. </a>
+<a href="#">Bapak Wahyu S.J.Saputra, S.Kom, M.Kom. </a>
 
 <br>
 <p align="center">
